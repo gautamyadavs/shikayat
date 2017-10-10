@@ -8,7 +8,6 @@ DESIGNED BY
 FrontEnd and Documentation: Arpit Jain<BR>
 BackEnd and Database: Gautam Yadav<BR>
 
-
 TO USE
 
 Install Xampp Server<BR>
@@ -18,6 +17,6 @@ Start the project with index.html<BR>
 
 TO CONTRIBUTE
 
-Create a new branch with a related name of the motive i.e. bug/refactor/feature
-Create an issue before actually starting to code
-Send a pull request anytime :)
+Create a new branch with a related name of the motive i.e. bug/refactor/feature<BR>
+Create an issue before actually starting to code<BR>
+Send a pull request anytime :)<BR>
