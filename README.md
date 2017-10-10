@@ -12,7 +12,7 @@ BackEnd and Database: Gautam Yadav<BR>
 TO USE
 
 Install Xampp Server<BR>
-Clone the repository git clone https://github.com/gautamyadavs/Leave-Module.git<BR>
+Clone the repository git clone https://github.com/arpitjainds/shikayat.git<BR>
 Run the Apache server<BR>
 Start the project with index.html<BR>
 
